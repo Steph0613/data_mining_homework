@@ -10,7 +10,7 @@ Parquet 数据放入如下目录：
 
 ```bash
 ./data/10G_data/     # 解压 10G parquet 数据集
-./data/30G_data/     # 解压 30G parquet 数据集（可选）
+./data/30G_data/     # 解压 30G parquet 数据集
 ```
 
 确保 `config.py` 中路径正确：
